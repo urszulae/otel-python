@@ -6,5 +6,5 @@ opentelemetry-sdk==1.4.1
 opentelemetry-exporter-otlp-proto-grpc==1.4.1
 opentelemetry-instrumentation-flask==0.23b2
 opentelemetry-instrumentation-requests==0.23b2
-opentelemetry-instrumentation==0.23b2
+opentelemetry-instrumentation==0.41b0
 python-dotenv
